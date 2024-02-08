@@ -1,1 +1,1 @@
-gra w zgadywanie co wypadło na kostce
+gra polegająca na zgadywaniu co wypadło na kostce
